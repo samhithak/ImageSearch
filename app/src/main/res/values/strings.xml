@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImageGallery</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_details">ImageDetailsActivity</string>
+
+    <string name="title">Title: %1s</string>
+    <string name="user">User: %1s</string>
+    <string name="id">Photo ID: %1s</string>
+    <string name="description_url">Description URL: %1s</string>
+
+    <string name="nav_flickr_url">https://www.flickr.com</string>
+    <string name="nav_flickr_title">Flickr Search</string>
+</resources>
